@@ -1,6 +1,9 @@
 # GMOCK-256
 Simple encryption algorithm based on SHA-256 implemented in C
 
+# Specifications
+See [the specification doc](GMOCK-256_Specifications.pdf) for more details.
+
 # Build
 Dependencies only include the standard C library, so it can be built for any platform with a standard C/C++ compiler (i.e. `gcc gmock-256.c`)
 
